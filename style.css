@@ -1,0 +1,12 @@
+.task-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .task-item {
+    margin-bottom: 10px;
+  }
+  
+  .task-item input[type="checkbox"] {
+    margin-right: 10px;
+  }
